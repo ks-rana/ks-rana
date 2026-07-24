@@ -16,6 +16,6 @@ I design the regulatory architecture: the questions, the scoring logic, the KPIs
 
 **Currently researching:** LLM confidence calibration and overconfidence (how the words a model uses to express certainty line up, or fail to line up, with whether it is actually right). The human-factors core of AI evaluation.
 
-**Open to:** Fall 2026 and Summer 2027 co-ops in responsible AI, AI evaluation, trust and safety, AI policy, technology and model risk, data and product analytics, and AI product.
+**Open to:** Summer 2027 co-ops in responsible AI, AI evaluation, trust and safety, AI policy, technology and model risk, data and product analytics, and AI product.
 
 📫 ks2rana@uwaterloo.ca · [Portfolio](https://khushi-rana-website.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/khushi-rana-00764223a)
